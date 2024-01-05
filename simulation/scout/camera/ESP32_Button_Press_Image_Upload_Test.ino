@@ -1,7 +1,3 @@
-/*
-  Complete project details: https://RandomNerdTutorials.com/
-  Based on the BasicHTTPSClient.ino example found at Examples > BasicHttpsClient
-*/
 
 #include <Arduino.h>
 #include <WiFi.h>
@@ -14,8 +10,8 @@
 #include <Adafruit_SSD1306.h>
 
 // Replace with your network credentials
-const char* ssid = "ORBI12";
-const char* password = "sweetoboe525";
+const char* ssid = "********************";
+const char* password = "********************";
 
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
@@ -171,9 +167,9 @@ void loop() {
       
       //Initializing an HTTPS communication using the secure client
       Serial.print("[HTTPS] begin...\n");
-      if (https.begin(*client, "https://yvlxqeprd7.execute-api.us-west-2.amazonaws.com/dev-feds-upload-api/upload/" + String(location))) {  // HTTPS
+      if (https.begin(*client, "https://y********************.amazonaws.com/dev-feds-upload-api/upload/" + String(location))) {  // HTTPS
         https.addHeader("Content-Type", "application/octet-stream");
-        https.addHeader("x-api-key", "lf2UF30n9m7gSVqFUoNykar0sJSwWFtJ9kF3jM1f");
+        https.addHeader("x-api-key", "****************************************);
         display.clearDisplay();
         delay(100);
         display.setCursor(0,0);

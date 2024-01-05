@@ -1,20 +1,3 @@
-# SPDX-FileCopyrightText: 2022 wrdaigle for Adafruit Industries
-# SPDX-FileCopyrightText: 2022 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
-"""
-VL53L1X multiple sensor I2C set_address demo.
-This example is written for two sensors, but it can easily be modified to include more.
-NOTE: A multitude of sensors may require more current than the on-board 3V regulator can output.
-The typical current consumption during active range readings is about 19 mA per sensor.
-
-WIRING SETUP
-VIN: 3v3
-GND: GND
-SCL & SDA: SAME FOR BOTH SENSORS CONNECT IN PARALLEL
-XSHUT: GPIO 17 and GPIO16
-"""
-
 import board
 import adafruit_vl53l4cd
 import busio
