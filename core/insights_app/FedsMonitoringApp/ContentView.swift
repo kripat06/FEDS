@@ -32,7 +32,7 @@ struct ContentView: View {
             }
             .background(Color.white)
 
-//            AsyncImage(url: URL(string: "https://feds-app-assets.s3.us-west-2.amazonaws.com/static/start_screen.jpeg")) { image in image
+//            AsyncImage(url: URL(string: "https://**********.amazonaws.com/static/start_screen.jpeg")) { image in image
 //                    .resizable()
 //                    .scaledToFit()
 //                    .aspectRatio(contentMode: .fill)

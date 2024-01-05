@@ -2,7 +2,7 @@
 //  ParkListView.swift
 //  FedsMonitoringApp
 //
-//  Created by Jagdish Patel on 3/9/23.
+//  Created by Krish Patel on 3/9/23.
 //
 
 import SwiftUI

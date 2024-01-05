@@ -2,7 +2,7 @@
 //  ParkRow.swift
 //  FedsMonitoringApp
 //
-//  Created by Jagdish Patel on 3/10/23.
+//  Created by Krish Patel on 3/10/23.
 //
 
 import SwiftUI
