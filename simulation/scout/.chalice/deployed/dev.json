@@ -1,0 +1,23 @@
+{
+  "resources": [
+    {
+      "name": "default-role",
+      "resource_type": "iam_role",
+      "role_arn": "arn:aws:iam::986374542936:role/feds_upload_api-dev",
+      "role_name": "feds_upload_api-dev"
+    },
+    {
+      "name": "api_handler",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:us-west-2:986374542936:function:feds_upload_api-dev"
+    },
+    {
+      "name": "rest_api",
+      "resource_type": "rest_api",
+      "rest_api_id": "yvlxqeprd7",
+      "rest_api_url": "https://yvlxqeprd7.execute-api.us-west-2.amazonaws.com/dev-feds-upload-api/"
+    }
+  ],
+  "schema_version": "2.0",
+  "backend": "api"
+}

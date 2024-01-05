@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.6 (2855000 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.5695300" minlon="-122.0607600" maxlat="37.5699500" maxlon="-122.0602100"/>
+ <node id="8089068757" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697183" lon="-122.0602435"/>
+ <node id="8089068758" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697211" lon="-122.0603342"/>
+ <node id="8089068759" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697040" lon="-122.0603350"/>
+ <node id="8089068760" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697057" lon="-122.0603928"/>
+ <node id="8089068761" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698822" lon="-122.0603843"/>
+ <node id="8089068762" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698797" lon="-122.0603009"/>
+ <node id="8089068763" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698471" lon="-122.0603025"/>
+ <node id="8089068764" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:53Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698451" lon="-122.0602374"/>
+ <node id="8089077503" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697493" lon="-122.0605610"/>
+ <node id="8089077504" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697448" lon="-122.0604149"/>
+ <node id="8089077505" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698519" lon="-122.0604097"/>
+ <node id="8089077506" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698538" lon="-122.0604737"/>
+ <node id="8089077507" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698865" lon="-122.0604722"/>
+ <node id="8089077508" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698890" lon="-122.0605542"/>
+ <node id="8089077547" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697317" lon="-122.0600691"/>
+ <node id="8089077548" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5697362" lon="-122.0602150"/>
+ <node id="8089077549" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698427" lon="-122.0602098"/>
+ <node id="8089077550" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698408" lon="-122.0601469"/>
+ <node id="8089077551" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698743" lon="-122.0601453"/>
+ <node id="8089077552" visible="true" version="1" changeset="93681035" timestamp="2020-11-06T19:03:54Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402" lat="37.5698718" lon="-122.0600623"/>
+ <way id="867819464" visible="true" version="2" changeset="95977459" timestamp="2020-12-17T05:37:46Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402">
+  <nd ref="8089068764"/>
+  <nd ref="8089068763"/>
+  <nd ref="8089068762"/>
+  <nd ref="8089068761"/>
+  <nd ref="8089068760"/>
+  <nd ref="8089068759"/>
+  <nd ref="8089068758"/>
+  <nd ref="8089068757"/>
+  <nd ref="8089068764"/>
+  <tag k="addr:housenumber" v="33835"/>
+  <tag k="addr:street" v="Farmhouse Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="867819522" visible="true" version="2" changeset="95977459" timestamp="2020-12-17T05:37:46Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402">
+  <nd ref="8089077508"/>
+  <nd ref="8089077507"/>
+  <nd ref="8089077506"/>
+  <nd ref="8089077505"/>
+  <nd ref="8089077504"/>
+  <nd ref="8089077503"/>
+  <nd ref="8089077508"/>
+  <tag k="addr:housenumber" v="33831"/>
+  <tag k="addr:street" v="Farmhouse Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="867819528" visible="true" version="2" changeset="95977459" timestamp="2020-12-17T05:37:46Z" user="Yury_Yatsynovich_--_OSM_Imports" uid="11362402">
+  <nd ref="8089077552"/>
+  <nd ref="8089077551"/>
+  <nd ref="8089077550"/>
+  <nd ref="8089077549"/>
+  <nd ref="8089077548"/>
+  <nd ref="8089077547"/>
+  <nd ref="8089077552"/>
+  <tag k="addr:housenumber" v="33839"/>
+  <tag k="addr:street" v="Farmhouse Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
