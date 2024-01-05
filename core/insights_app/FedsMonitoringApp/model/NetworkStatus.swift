@@ -2,7 +2,7 @@
 //  NetworkStatus.swift
 //  FedsMonitoringApp
 //
-//  Created by Jagdish Patel on 3/22/23.
+//  Created by Krish Patel on 3/22/23.
 //
 
 import Foundation
