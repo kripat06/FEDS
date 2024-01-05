@@ -5,7 +5,7 @@ from datetime import datetime
 
 app = Chalice(app_name="feds_upload_api")
 
-BUCKET = 'kpat-esp32fedsupload-west-2'  # bucket name
+BUCKET = '**********'  # bucket name
 s3_client = boto3.client('s3')
 s3_resource = boto3.resource('s3')
 

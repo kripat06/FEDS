@@ -92,7 +92,7 @@ struct ParkStatusView_Previews: PreviewProvider {
                                 latitude: 1,
                                 longitude: 1,
                                 time_in_millis: 1679120100397,
-                                url: "https://kpat-esp32fedsupload-west-2.s3.us-west-2.amazonaws.com/02_18_2023_06_17_23_esp32-1.jpg",
+                                url: "https://********************.amazonaws.com/02_18_2023_06_17_23_esp32-1.jpg",
                                 is_detected: true,
                                 status: "FireDetected"
                               ),

@@ -16,7 +16,7 @@ import neopixel
 import json
 
 #  connect to SSID
-wifi.radio.connect("ORBI12", "sweetoboe525")
+wifi.radio.connect("******", "******")
 
 pool = socketpool.SocketPool(wifi.radio)
 requests = adafruit_requests.Session(pool, ssl.create_default_context())
@@ -541,8 +541,8 @@ YELLOW = (255, 150, 0)
 RED = (0, 255, 0)
 RESET = (0, 0, 0)
 
-check_for_fire_url = "https://yvx6t8lrvg.execute-api.us-west-1.amazonaws.com/dev/api/extinguisher/fireblock"
-fire_extinguished_url = "https://yvx6t8lrvg.execute-api.us-west-1.amazonaws.com/dev/api/extinguisher/extinguish/block/"
+check_for_fire_url = "https://y*******************.amazonaws.com/dev/api/extinguisher/fireblock"
+fire_extinguished_url = "https://y********************.amazonaws.com/dev/api/extinguisher/extinguish/block/"
 
 
 

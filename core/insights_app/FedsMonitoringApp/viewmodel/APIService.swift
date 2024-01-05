@@ -9,7 +9,7 @@ import Foundation
 
 struct APIService {
     
-    let baseURL = "https://yvx6t8lrvg.execute-api.us-west-1.amazonaws.com/dev/api"
+    let baseURL = "https://y********************.amazonaws.com/dev/api"
     
 
     func fetch<T: Decodable>(_ type: T.Type, url: URL?, completion: @escaping(Result<T, APIError>) -> Void) {
