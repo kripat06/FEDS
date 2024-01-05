@@ -578,7 +578,7 @@ def wait_for_ready():
         time.sleep(3)
     return ready
 
-navigation_state_url = "https://yvx6t8lrvg.execute-api.us-west-1.amazonaws.com/dev/api/navigationstate"
+navigation_state_url = "https://y********************.amazonaws.com/dev/api/navigationstate"
 
 def check_navigation_status():
     ready = False
