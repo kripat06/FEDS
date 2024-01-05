@@ -2,7 +2,7 @@
 //  FedsStatus.swift
 //  FedsMonitoringApp
 //
-//  Created by Jagdish Patel on 3/24/23.
+//  Created by Krish Patel on 3/24/23.
 //
 
 import Foundation
