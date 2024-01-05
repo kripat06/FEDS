@@ -95,5 +95,3 @@ def update_upload_file(content):
     with open(tmp_file_name, 'w') as tmp_file:
         tmp_file.write(content)
     s3_client.upload_file(tmp_file_name, Bucket=BUCKET, Key="picture_upload/picture_upload.txt")
-
-#curl https://yvlxqeprd7.execute-api.us-west-2.amazonaws.com/dev-feds-upload-api/fetch --header "x-api-key":"lf2UF30n9m7gSVqFUoNykar0sJSwWFtJ9kF3jM1f"
